@@ -24,11 +24,12 @@
 
 ## 安装方法
 
-1. 关闭 Zotero
-2. 在 Zotero 中依次点击 Tools > Add-ons
-3. 点击右上角齿轮图标 > Install Add-on From File...
-4. 选择 `better-notes-for-zotero.xpi` 文件
-5. 重启 Zotero
+1. 从 [Releases](https://github.com/caipio/zotero-better-notes/releases) 页面下载最新的 `.xpi` 文件
+2. 关闭 Zotero
+3. 在 Zotero 中依次点击 Tools > Add-ons
+4. 点击右上角齿轮图标 > Install Add-on From File...
+5. 选择下载的 `.xpi` 文件
+6. 重启 Zotero
 
 ## 修改的文件
 
